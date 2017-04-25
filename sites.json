@@ -478,6 +478,16 @@
             "behance.net"
         ]
     },
+    
+    {
+        "name": "Bit Trade Australia",
+        "url": "https://www.btradeaustralia.com/helpdesk/",
+        "difficulty": "hard",
+        "notes": "You have to login and submit a Help Desk ticket requestion account deletion.",
+        "domains": [
+            "btradeaustralia.com"
+        ]
+    },
 
     {
         "name": "Bitbucket",
